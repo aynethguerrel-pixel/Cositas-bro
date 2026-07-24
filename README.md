@@ -1,2 +1,0 @@
-# Cositas-bro
-cositas bro 
